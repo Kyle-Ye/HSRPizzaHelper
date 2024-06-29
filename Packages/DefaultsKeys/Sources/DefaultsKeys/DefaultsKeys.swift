@@ -10,7 +10,7 @@ import Foundation
 
 extension UserDefaults {
     // 此处的 suiteName 与 container ID 一致。
-    public static let hsrSuite = UserDefaults(suiteName: "group.Canglong.HSRPizzaHelper") ?? .standard
+    public static let hsrSuite = UserDefaults(suiteName: "group.top.kyleye.HSRPizzaHelper") ?? .standard
 }
 
 extension Defaults.Keys {

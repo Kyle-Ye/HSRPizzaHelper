@@ -10,7 +10,7 @@ import SwiftUI
 import WidgetKit
 
 struct RectangularDailyNoteWidget: Widget {
-    let kind: String = "com.Canglong.HSRPizzaHelper.HSRPizzaHelperWidget.RectangularDailyNoteWidget"
+    let kind: String = "top.kyleye.HSRPizzaHelper.HSRPizzaHelperWidget.RectangularDailyNoteWidget"
 
     var body: some WidgetConfiguration {
         IntentConfiguration(

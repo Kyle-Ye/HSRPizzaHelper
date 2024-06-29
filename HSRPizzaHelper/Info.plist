@@ -8,7 +8,7 @@
 			<key>CFBundleTypeRole</key>
 			<string>Viewer</string>
 			<key>CFBundleURLName</key>
-			<string>Canglong.HSRPizzaHelper</string>
+			<string>top.kyleye.HSRPizzaHelper</string>
 			<key>CFBundleURLSchemes</key>
 			<array>
 				<string>hsrhelper</string>

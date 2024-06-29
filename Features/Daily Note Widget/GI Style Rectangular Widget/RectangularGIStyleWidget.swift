@@ -10,7 +10,7 @@ import SwiftUI
 import WidgetKit
 
 struct RectangularGIStyleWidget: Widget {
-    let kind: String = "com.Canglong.HSRPizzaHelper.HSRPizzaHelperWidget.RectangularGIStyleWidget"
+    let kind: String = "top.kyleye.HSRPizzaHelper.HSRPizzaHelperWidget.RectangularGIStyleWidget"
 
     var body: some WidgetConfiguration {
         IntentConfiguration(

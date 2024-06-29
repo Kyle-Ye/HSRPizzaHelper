@@ -28,7 +28,7 @@ enum AppConfig {
     }()
 
     /// A string representing the App Group identifier
-    static let appGroupID: String = "group.Canglong.HSRPizzaHelper"
+    static let appGroupID: String = "group.top.kyleye.HSRPizzaHelper"
 
     /// The name of folder which stores all background image
     static let backgroundImageFolderName: String = "background_image"

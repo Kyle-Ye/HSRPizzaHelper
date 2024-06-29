@@ -11,7 +11,7 @@ import Foundation
 
 #if !os(watchOS)
 extension UserDefaults {
-    public static let enkaSuite = UserDefaults(suiteName: "group.Canglong.HSRPizzaHelper.storageForEnka") ?? .hsrSuite
+    public static let enkaSuite = UserDefaults(suiteName: "group.top.kyleye.HSRPizzaHelper.storageForEnka") ?? .hsrSuite
 }
 
 extension Defaults.Keys {

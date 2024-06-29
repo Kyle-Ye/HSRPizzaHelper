@@ -31,7 +31,7 @@ actor PersistenceController {
 
         description
             .cloudKitContainerOptions =
-            .init(containerIdentifier: "iCloud.com.Canglong.HSRPizzaHelper")
+            .init(containerIdentifier: "iCloud.top.kyleye.HSRPizzaHelper")
         description.setOption(
             true as NSNumber,
             forKey: "NSPersistentStoreRemoteChangeNotificationOptionKey"

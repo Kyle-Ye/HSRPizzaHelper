@@ -13,7 +13,7 @@ import WidgetKit
 
 @available(iOSApplicationExtension 16.0, *)
 struct CommonStaminaLockscreenWidget: Widget {
-    let kind: String = "com.Canglong.HSRPizzaHelper.HSRPizzaHelperWidget.CommonStaminaLockscreenWidget"
+    let kind: String = "top.kyleye.HSRPizzaHelper.HSRPizzaHelperWidget.CommonStaminaLockscreenWidget"
 
     @Environment(\.widgetFamily) var widgetFamily
 

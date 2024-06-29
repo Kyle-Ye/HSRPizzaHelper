@@ -8,7 +8,7 @@ import GachaMetaDB
 
 #if !os(watchOS)
 extension UserDefaults {
-    public static let gmdbSuite = UserDefaults(suiteName: "group.Canglong.HSRPizzaHelper.GachaMetaDB") ?? .hsrSuite
+    public static let gmdbSuite = UserDefaults(suiteName: "group.top.kyleye.HSRPizzaHelper.GachaMetaDB") ?? .hsrSuite
 }
 
 extension Defaults.Keys {

@@ -14,7 +14,7 @@ import WidgetKit
 
 @available(iOSApplicationExtension 16.0, *)
 struct LargeIconStaminaLockscreenWidget: Widget {
-    let kind: String = "com.Canglong.HSRPizzaHelper.HSRPizzaHelperWidget.LargeIconStaminaLockscreenWidget"
+    let kind: String = "top.kyleye.HSRPizzaHelper.HSRPizzaHelperWidget.LargeIconStaminaLockscreenWidget"
 
     @Environment(\.widgetFamily) var widgetFamily
 

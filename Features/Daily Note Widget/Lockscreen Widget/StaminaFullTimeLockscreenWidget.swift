@@ -14,7 +14,7 @@ import WidgetKit
 
 @available(iOSApplicationExtension 16.0, *)
 struct StaminaFullTimeLockscreenWidget: Widget {
-    let kind: String = "com.Canglong.HSRPizzaHelper.HSRPizzaHelperWidget.StaminaFullTimeLockscreenWidget"
+    let kind: String = "top.kyleye.HSRPizzaHelper.HSRPizzaHelperWidget.StaminaFullTimeLockscreenWidget"
 
     @Environment(\.widgetFamily) var widgetFamily
 
